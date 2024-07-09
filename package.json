@@ -6,8 +6,7 @@
   "scripts": {
     "start": "node dist/index.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc",
-    "copy-secrets": "cp secrets/firebaseServiceAccountKey.json dist/secrets/firebaseServiceAccountKey.json"
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
